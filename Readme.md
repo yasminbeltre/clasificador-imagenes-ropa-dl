@@ -1,5 +1,7 @@
 # 👗 Clasificador de Imágenes de Ropa con Deep Learning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/clasificador-imagenes-ropa-dl/blob/main/clasificador_imagenes_ropa_dl.ipynb)
+
 > Proyecto académico desarrollado como parte del curso de Inteligencia Artificial — Módulo 4  
 > **Autora:** Yasmin Beltre | Customer Success & Operations Specialist  
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmin%20Beltre-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasminbeltre)
